@@ -1,0 +1,9 @@
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\Compra\Compra\bin\Debug\Compra.exe
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\Compra\Compra\bin\Debug\Compra.pdb
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\Compra\Compra\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\Compra\Compra\obj\x86\Debug\Compra.FrmCompra.resources
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\Compra\Compra\obj\x86\Debug\Compra.Properties.Resources.resources
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\Compra\Compra\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\Compra\Compra\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\Compra\Compra\obj\x86\Debug\Compra.exe
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\Compra\Compra\obj\x86\Debug\Compra.pdb

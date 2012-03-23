@@ -1,0 +1,9 @@
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\CalculoIdade\CalculoIdade\bin\Debug\CalculoIdade.exe
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\CalculoIdade\CalculoIdade\bin\Debug\CalculoIdade.pdb
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\CalculoIdade\CalculoIdade\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\CalculoIdade\CalculoIdade\obj\x86\Debug\CalculoIdade.FrmIdade.resources
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\CalculoIdade\CalculoIdade\obj\x86\Debug\CalculoIdade.Properties.Resources.resources
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\CalculoIdade\CalculoIdade\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\CalculoIdade\CalculoIdade\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\CalculoIdade\CalculoIdade\obj\x86\Debug\CalculoIdade.exe
+C:\Documents and Settings\Bruna Flor\Meus documentos\projetosC#\CalculoIdade\CalculoIdade\obj\x86\Debug\CalculoIdade.pdb
